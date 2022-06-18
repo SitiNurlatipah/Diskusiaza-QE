@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: As a user on login page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 27.049 s <<< FAILURE! - in As a user on login page
+As a user on login page.User input valid email and password  Time elapsed: 27.049 s  <<< ERROR!
+java.lang.RuntimeException: Some exception during recording fields
+Caused by: java.net.SocketTimeoutException: Read timed out
+
